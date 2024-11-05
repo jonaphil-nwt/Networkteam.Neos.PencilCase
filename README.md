@@ -7,9 +7,7 @@
 1. At last you add the package as a dependency to the composer.json of the DistributionPackages as well:
 ```json
 {
-  //...,
   "require": {
-    //...,
     "networkteam/neos-pencilcase": "*",
   }
 }
